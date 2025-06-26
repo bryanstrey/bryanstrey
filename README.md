@@ -8,8 +8,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanstrey&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="bryanstrey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanstrey&theme=transparent" alt="bryanstrey" /></p>
-
 <h3 align="left">Connect with me:</h3>
 Email: streybryan@gmail.com
 <p align="left">
