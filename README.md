@@ -10,6 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 Email: streybryan@gmail.com
+
+<br>
 Linkedin: https://www.linkedin.com/in/bryan-strey-158b0a293/
 <p align="left">
 </p>
